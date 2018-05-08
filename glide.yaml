@@ -1,4 +1,4 @@
-package: github.com/cosmincojocar/tbt
+package: github.com/ccojocar/tbt
 import:
 - package: github.com/spf13/cobra
   version: v0.0.1

@@ -6,7 +6,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/cosmincojocar/tbt/tree"
+	"github.com/ccojocar/tbt/tree"
 	"github.com/spf13/cobra"
 )
 
